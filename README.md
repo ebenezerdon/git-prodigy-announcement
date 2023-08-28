@@ -17,8 +17,6 @@ For everyone outside Nigeria:
 
 ## 📖 Table of Contents
 
-## 📖 Table of Contents
-
 1. **Introduction to Version Control**
    - What is Version Control?
    - Why is Version Control Important?
